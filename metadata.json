@@ -1,0 +1,8 @@
+{
+  "name": "AI Decision Copilot",
+  "description": "General-purpose AI-powered CSV data analysis, profiling, visualization, and executive reporting platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
